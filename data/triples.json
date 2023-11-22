@@ -1,0 +1,12 @@
+[{'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'เขารับร่อ'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'คลองรับร่อ'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'วัดเก่า'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'PLACE', 'object': 'พิพิธภัณฑ์ท้องถิ่น'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'เมืองอุทุมพร'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'เมืองนคร'},
+ {'subject': 'วัดเทพเจริญ',  'predicate': 'PERSON', 'object': 'พระเจ้าศรีธรรมาโศกราช'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'ลังกา'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'DATE', 'object': 'สมัยอยุธยา'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'กรุงศรีอยุธยา'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'PLACE', 'object': 'ถ้ำรับร่อ'},
+ {'subject': 'วัดเทพเจริญ', 'predicate': 'LOCATION', 'object': 'อำเภอท่าแซะ'}]
